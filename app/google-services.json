@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172153773492",
+    "firebase_url": "https://vadebicicleta-ae9e6.firebaseio.com",
+    "project_id": "vadebicicleta-ae9e6",
+    "storage_bucket": "vadebicicleta-ae9e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172153773492:android:6a8e491f821cca5624e6e1",
+        "android_client_info": {
+          "package_name": "com.carrati.vadebicicleta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172153773492-3d0b0mdmt7bd3hc9i2j3m0smsltssqc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carrati.vadebicicleta",
+            "certificate_hash": "94fd1f2247f4ebfed2a8fb8cb9e9d38e9892ef3c"
+          }
+        },
+        {
+          "client_id": "172153773492-id4jb9pu13trsfumka0gs401vnscs5g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDb14AJ62uwgGVeKFytYf1X3BZ1Pyifo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172153773492-id4jb9pu13trsfumka0gs401vnscs5g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
